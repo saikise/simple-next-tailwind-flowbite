@@ -1,3 +1,9 @@
+## [Modular Next.js 13 Development with Tailwind CSS and Flowbite — App router, Responsive, Complete Tutorial](https://medium.com/@saikise/rapid-next-js-ad73b1227fde)
+
+Read tutorial on Medium ☝️
+
+##
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
